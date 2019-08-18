@@ -8,6 +8,7 @@ The soul purpose of this project  is to show how the stack is used.
 * [Requests](https://github.com/psf/requests)
 * [Flask](https://flask.palletsprojects.com/en/1.0.x/quickstart/#quickstart)
 * [Flake8](http://flake8.pycqa.org/en/latest/)
+* [pytest](https://docs.pytest.org/en/latest/getting-started.html)
 
 ### Commands :computer:
 __NOTE__: Before importing the project you could create the virtual
