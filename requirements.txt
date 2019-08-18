@@ -2,3 +2,4 @@ nox
 flake8
 requests
 Flask
+pytest
