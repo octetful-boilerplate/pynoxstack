@@ -1,0 +1,14 @@
+# All IntelliJ IDEA files
+.idea
+.idea/
+.idea/*
+.idea/vcs.xml
+
+# All Virtualenvs
+venv/
+
+# All Caches
+__pycache__/
+
+# Nox files
+.nox/
